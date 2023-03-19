@@ -1,0 +1,37 @@
+.vbox_background_center{
+-fx-background-image: url(pic1_2.jpg);
+}
+.vbox_background_right{
+    -fx-background-image: url(pic2_2.jpg);
+}
+.profile_button{
+    -fx-background-color: #000000;
+}
+
+.profile_button:hover{
+    -fx-background-color: #d39d58;
+}
+
+.cursor_hand{
+    -fx-cursor: hand;
+}
+
+.Login_button{
+    -fx-background-color: #ed6637;
+}
+
+.Login_button:hover {
+    -fx-background-color: #d39d58;
+}
+
+.SignUp_button{
+    -fx-background-color: transparent;
+}
+
+.SignUp_button:hover {
+    -fx-background-color: #ed6637;
+}
+
+.bank1{
+    -fx-background-image: url(bank1.jpg);
+}
